@@ -1,0 +1,3 @@
+SELECT hex(name || age) AS X FROM Ages ORDER BY X
+
+Answer - 426164723134
